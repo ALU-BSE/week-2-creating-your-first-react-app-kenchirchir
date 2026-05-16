@@ -1,4 +1,5 @@
 import React from 'react';
+import './MyComponent.css';
 
 interface MyComponentProps {
   title: string;
